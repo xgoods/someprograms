@@ -1,6 +1,4 @@
-'''
-Brian Goodwin
-'''
+
 
 letter='q'
 
